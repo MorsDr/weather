@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "weather", "weather\weather.pyproj", "{4DA1BE7E-A35B-4AE9-97A7-84AFD3B8A0DA}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "task", "..\task\task\task.pyproj", "{EE41E654-FF09-4C03-821B-DC7EB6E4F955}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DA1BE7E-A35B-4AE9-97A7-84AFD3B8A0DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DA1BE7E-A35B-4AE9-97A7-84AFD3B8A0DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE41E654-FF09-4C03-821B-DC7EB6E4F955}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE41E654-FF09-4C03-821B-DC7EB6E4F955}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F8A46D84-ECE5-4B39-BE9F-F23039D4D1AA}
+	EndGlobalSection
+EndGlobal
